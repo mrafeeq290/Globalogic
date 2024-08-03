@@ -6,11 +6,13 @@ _The Last Markdown Editor, Ever_
 
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
 
-Dillinger is a cloud-enabled, mobile-ready, offline-storage compatible,
+Dillinger is a cloud-enabled, mobile-ready, offline-storage compatible, easy to use application
 
 AngularJS-powered HTML5 Markdown editor.
 
 <!------- Unordered List------------------------------------>
+
+# unoredred list
 
 
 - Type some Markdown on the left
